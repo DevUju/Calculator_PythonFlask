@@ -1,0 +1,19 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 150px;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+}
+
+form{
+    text-align: center;
+}
