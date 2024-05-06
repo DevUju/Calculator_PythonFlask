@@ -33,7 +33,6 @@ def operation():
     if operation_symbol != "+" and operation_symbol != "-" and operation_symbol != "*" and operation_symbol != "/":
         return render_template("invalid-input.html")
 
-
     return render_template(
         "calculate.html",
         num1 = input1,
